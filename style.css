@@ -63,9 +63,9 @@ ul {
 .title--fixed {
   z-index: -1;
   position: fixed;
-  /* color: #00ff00; */
+  color: #00ff00;
   /* color: #fdff9b; */
-  color: #ff7700;
+  /* color: #ff7700; */
 }
 
 .section {
